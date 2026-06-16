@@ -1,0 +1,13 @@
+names:
+- cement_mixer_truck
+- swing_chute
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: cement-mixer-truckv10
+  url: https://universe.roboflow.com/0375s-workspace/cement-mixer-truckv10/dataset/7
+  version: 7
+  workspace: 0375s-workspace
+test: ../test/images
+train: ../train/images
+val: ../valid/images
